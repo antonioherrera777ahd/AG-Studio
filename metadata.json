@@ -1,0 +1,6 @@
+{
+  "name": "AG STUDIO",
+  "description": "Entorno corporativo de simulación profesional con IA para AG Telecomunicaciones",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
